@@ -1,4 +1,4 @@
-vvvvvv <!-- FRONT -->
+<!-- FRONT -->
 
 PHARRELL WILLIAMS
 
